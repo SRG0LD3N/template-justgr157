@@ -32,9 +32,9 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 ##  IMPLEMENTACIÓN
 
 ### Pseudocódigo
-
+Representación estructurada y en lenguaje natural de los algoritmos desarrollados.
 --------------------------
-
+```
 Inicio
 Repetir
 Mostrar "1. Factorial de un número"
@@ -78,7 +78,7 @@ Segun opcion Hacer
   De Otro Modo:
     Mostrar "Opción inválida"
 FinSegun
-
+```
 
 ---
 
