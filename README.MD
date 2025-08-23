@@ -24,13 +24,12 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 
 --------------------------
 
-Inicio
-Repetir
-Mostrar "1. Factorial de un número"
-Mostrar "2. Determinar subsidio de familia"
-Mostrar "3. Salir"
-Leer opcion
----
+- Inicio
+- Repetir
+- Mostrar "1. Factorial de un número"
+- Mostrar "2. Determinar subsidio de familia"
+- Mostrar "3. Salir"
+- Leer opcion
 
 ##  IMPLEMENTACIÓN
 
