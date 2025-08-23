@@ -2,7 +2,7 @@
 
 Proyecto realizado incluyendo **Pseudocódigo, C++ y Python**.  
 El usuario puede elegir entre calcular el **factorial de un número** o **determinar el subsidio que recibe una familia** según las condiciones solicitadas. 
-Primero vamos a tener un **menú interactivo** y solo termina cuando la persona selecciona la opción 3: **Salir**.
+Primero vamos a tener un **menú interactivo** y solo termina cuando la persona selecciona la opción va a seleccionar la opción **Salir**.
 
 ---
 
