@@ -31,7 +31,7 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 
 ##  IMPLEMENTACIÓN
 
-### Pseudocódigo
+### PSEUDOCÓDIGO
 
 Representación estructurada y en lenguaje natural de los algoritmos desarrollados.
 
@@ -84,7 +84,7 @@ FinSegun
 
 ---
 
-### 🔹 Código en C++
+### CÓDIGO EN C++
 
 ```cpp
 #include <iostream>
