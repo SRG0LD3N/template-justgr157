@@ -22,8 +22,6 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 
 3. **Menú principal del programa**
 
---------------------------
-
 - Inicio
 - Repetir
 - Mostrar "1. Factorial de un número"
