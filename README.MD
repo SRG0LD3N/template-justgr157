@@ -29,7 +29,13 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 - Mostrar "3. Salir"
 - Leer opcion
 
-##  IMPLEMENTACIÓN
+
+## IMPLEMENTACIÓN
+- [Pseudocódigo](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/pseudocodigo.txt)
+- [Código C++](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/proyecto1.cpp)
+- [Código Python](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/proyecto1.py)
+- [Readme.md](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/README.MD)
+
 
 ### PSEUDOCÓDIGO
 
