@@ -1,0 +1,42 @@
+Inicio
+  Repetir
+    Mostrar "1. Factorial de un número"
+    Mostrar "2. Determinar subsidio de familia"
+    Mostrar "3. Salir"
+    Leer opcion
+
+    Segun opcion Hacer
+      Caso 1:
+        Leer numero
+        factorial = 1
+        Para i = 1 Hasta numero Hacer
+          factorial = factorial * i
+        FinPara
+        Mostrar "El factorial es: ", factorial
+      Caso 2:
+        Leer hijos
+        Si hijos = 3 Entonces
+          subsidio = 300
+        Sino Si hijos >= 4 Y hijos <= 5 Entonces
+          subsidio = 350
+        Sino Si hijos > 5 Entonces
+          subsidio = 400
+        FinSi
+
+        extra = 0
+        Para i = 1 Hasta hijos Hacer
+          Leer edad
+          Si edad >= 7 Y edad <= 18 Entonces
+            extra = extra + (subsidio * 0.06)
+          FinSi
+        FinPara
+
+        total = subsidio + extra
+        Mostrar "La familia recibe: ", total
+      Caso 3:
+        Mostrar "Saliendo del programa..."
+      De Otro Modo:
+        Mostrar "Opción inválida"
+    FinSegun
+  Hasta Que opcion = 3
+Fin
