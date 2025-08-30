@@ -146,7 +146,7 @@ int main() {
     return 0;
 }
 ```
-CÓDIGO EN PYTHON
+### CÓDIGO EN PYTHON
 
 ```cpp
 while True:
