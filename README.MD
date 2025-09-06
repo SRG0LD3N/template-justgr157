@@ -36,7 +36,7 @@ Primero vamos a tener un **menú interactivo** y solo termina cuando la persona 
 - [Código Python](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/proyecto1.py)
 - [Readme.md](https://github.com/SRG0LD3N/template-justgr157/blob/main/Proyecto1_AAG/README.MD)
 
-## PEQUENO RESUMEN
+## PEQUEÑO RESUMEN
 Los tres programas muestran un menú con opciones para calcular el factorial de un número o el subsidio familiar y el último botón de "Exit"
 En los tres utilicé ciclos (for, while) y condiciones para procesar datos ingresados por el user.
 La sintaxis de C++ es más compleja que Python que es un lenguaje más fácil de usar.
