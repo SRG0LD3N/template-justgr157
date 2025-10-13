@@ -1,6 +1,6 @@
-# 📁 Portafolio de Proyectos y Tareas (AAG)
+# 🔱 Portafolio de Proyecto y Trabajos
 
-Este repositorio documenta el progreso y las soluciones desarrolladas durante mis ejercicios de programación en C++, Python y Java. El objetivo es practicar conceptos fundamentales como estructuras de control, manejo de datos, y algoritmos con matrices y cadenas.
+Este repositorio documenta el progreso y las soluciones desarrolladas durante mis ejercicios de programación en C++, Python y Java. El objetivo es practicar conceptos super fundamentales como estructuras de control, manejo de datos, y algoritmos con matrices y cadenas, entre otros.
 
 ---
 
@@ -12,35 +12,30 @@ Este repositorio documenta el progreso y las soluciones desarrolladas durante mi
 | **`proyecto1.py`** | Python | Traducción y versión simplificada del Gestor de Productos en Python, utilizando listas y diccionarios, con persistencia de datos mediante el módulo **CSV**. |
 | **`ProyectoII_Matrices_AAG.py`** | Python | Serie de ejercicios centrados en **álgebra lineal y manipulación de cadenas de texto** (ver el pseudocódigo adjunto para el menú completo). |
 | **`Proyecto 3_AAG.cpp`** | C++ | Ejercicios avanzados en C++, probablemente relacionados con el uso de estructuras de datos más complejas o el manejo de memoria. |
-| **`Restaurante.java`** / **`.class`** | Java | Archivos que indican la práctica de **Programación Orientada a Objetos (POO)** en Java. |
 
 ---
 
-## ⚙️ Algoritmos y Lógica Practicada
+## ⚙️ Desarrollo de Trabajos
 
-Esta sección describe la lógica central desarrollada para los ejercicios de matrices y cadenas, que se opera mediante un **Menú de Opciones** con la **Estructura `switch`**.
+Esta sección detalla los proyectos y ejercicios clave que se han desarrollado en el repositorio
 
-### 📝 Estructura del Programa (Pseudocódigo)
+### 📁 Proyectos de Gestión y CRUD (Tareas)
 
-El programa maneja un menú con 8 opciones principales, divididas en operaciones matemáticas y de texto:
-
-| Opción | Tipo de Operación | Conceptos Practicados |
+| Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
 | :--- | :--- | :--- |
-| **1-4** | **Matrices** | Suma, Transpuesta, Multiplicación y Búsqueda de un número. |
-| **5-8** | **Cadenas de Texto** | Contar Palabras, Ordenar Caracteres, Detectar Subcadenas y Verificar **Palíndromos**. |
+| **Gestor de Inventario** | `proyecto1.cpp`, `proyecto1.py` | Desarrollo de un **Sistema CRUD** (Crear, Leer, Actualizar) para productos. Se implementó la lógica en **C++** (usando `struct` y manejo de archivos) y luego se tradujo a **Python** para practicar la persistencia de datos con el módulo CSV. |
+| **Práctica de POO en Java** | `Restaurante.java`, `Restaurante.class` | Ejercicios centrados en la **Programación Orientada a Objetos (POO)**. Se implementaron clases y objetos para simular un contexto de gestión. |
 
-### ✅ Conceptos de Control Practicados
+### 💻 Ejercicios de Algoritmos y Lógica
 
-La documentación incluida en los archivos `README.md` o `Readme2.md` se enfoca en la implementación de:
+| Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
+| :--- | :--- | :--- |
+| **Operaciones con Matrices y Cadenas** | `ProyectoII_Matrices_AAG.py` | Implementación de un programa basado en un menú que cubre algoritmos de **Álgebra Lineal** (Suma, Transpuesta, Multiplicación de Matrices) y **Manipulación de Cadenas** (Palíndromos, Detección de Subcadenas, Conteo de Palabras). |
+| **Fundamentos de Estructuras** | `README.md` (Documentación) | Creación de documentación y ejemplos prácticos en C++ para comprender el funcionamiento y la sintaxis de las estructuras de control: **Selección Simple (`if-else`)** y **Selección Múltiple (`switch`)**. |
 
-* **Estructura `if-else`:** Para tomar decisiones con múltiples condiciones (ej: positivo, negativo, cero).
-* **Estructura `switch`:** Para ejecutar bloques de código basados en la selección de una opción de menú.
+### 🛠️ Archivos de Apoyo y Documentación
 
----
-
-## ⚠️ Notas de Desarrollo (Compilación)
-
-Durante el desarrollo en C++ con Dev-C++, se encontró y solucionó un error común para entornos antiguos:
-
-* **Problema:** Errores `[Error] 'stoi' was not declared...`
-* **Solución:** Se requirió configurar el compilador con el *flag* `-std=c++11` para que reconozca las funciones modernas de conversión de texto a número (`string to int`/`float`).
+| Archivo | Contenido |
+| :--- | :--- |
+| `pseudocodigo.txt` | Detalle del algoritmo y las especificaciones del menú de **Operaciones con Matrices y Cadenas**. |
+| `README.md` | Documentación teórica, ejemplos de código y manuales de usuario para las diferentes tareas realizadas. |
