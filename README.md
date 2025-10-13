@@ -22,15 +22,17 @@ Esta sección detalla los proyectos y ejercicios clave que se han desarrollado e
 
 | Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
 | :--- | :--- | :--- |
-| **Gestor de Inventario** | `proyecto1.cpp`, `proyecto1.py` | Desarrollo de un **Sistema CRUD** (Crear, Leer, Actualizar) para productos. Se implementó la lógica en **C++** (usando `struct` y manejo de archivos) y luego se tradujo a **Python** para practicar la persistencia de datos con el módulo CSV. |
-| **Práctica de POO en Java** | `Restaurante.java`, `Restaurante.class` | Ejercicios centrados en la **Programación Orientada a Objetos (POO)**. Se implementaron clases y objetos para simular un contexto de gestión. |
+| **Nombre del trabajo** | `trabajoejemplo.cpp` | Brebe información acerca de la tarea creada con `definición` de cada misma realizada |
 
 ### 🛠️ Archivos de Apoyo y Documentación
 
-| Archivo | Contenido |
-| :--- | :--- |
-| `pseudocodigo.txt` | Detalle del algoritmo y las especificaciones del menú de **Operaciones con Matrices y Cadenas**. |
-| `README.md` | Documentación teórica, ejemplos de código y manuales de usuario para las diferentes tareas realizadas. |
+Esta sección detalla el propósito de los archivos no ejecutables, cruciales para entender la lógica y las estructuras de los proyectos.
+
+| Archivo | Definición Sencilla | Propósito en el Proyecto |
+| :--- | :--- | :--- |
+| **`pseudocodigo.txt`** | El **"Borrador de la Receta"**. Es la lista de pasos que planeamos seguir, escrita en español simple, antes de traducirla al código real. | Detalla el algoritmo y la secuencia lógica del menú de **Operaciones con Matrices y Cadenas**, sirviendo como plano de construcción. |
+| **`README.md`** | Tu **"Tarjeta de Presentación"** del proyecto. Es el primer archivo que la gente ve, explicando de qué va todo y cómo usarlo. | Contiene la introducción, el índice de proyectos, ejemplos teóricos (como `if-else`/`switch`) y el manual de usuario. |
+| **`proyecto1.cpp`** | El **"Motor"** del Gestor de Inventario. Es el código fuente en C++ que hace que el programa funcione y guarde tus productos. | Es la implementación práctica del sistema CRUD de inventario, donde se aplican las estructuras de datos y funciones de archivo. |
 
 
 
