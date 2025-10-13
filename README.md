@@ -25,18 +25,12 @@ Esta sección detalla los proyectos y ejercicios clave que se han desarrollado e
 | **Gestor de Inventario** | `proyecto1.cpp`, `proyecto1.py` | Desarrollo de un **Sistema CRUD** (Crear, Leer, Actualizar) para productos. Se implementó la lógica en **C++** (usando `struct` y manejo de archivos) y luego se tradujo a **Python** para practicar la persistencia de datos con el módulo CSV. |
 | **Práctica de POO en Java** | `Restaurante.java`, `Restaurante.class` | Ejercicios centrados en la **Programación Orientada a Objetos (POO)**. Se implementaron clases y objetos para simular un contexto de gestión. |
 
-### 💻 Ejercicios de Algoritmos y Lógica
-
-| Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
-| :--- | :--- | :--- |
-| **Operaciones con Matrices y Cadenas** | `ProyectoII_Matrices_AAG.py` | Implementación de un programa basado en un menú que cubre algoritmos de **Álgebra Lineal** (Suma, Transpuesta, Multiplicación de Matrices) y **Manipulación de Cadenas** (Palíndromos, Detección de Subcadenas, Conteo de Palabras). |
-| **Fundamentos de Estructuras** | `README.md` (Documentación) | Creación de documentación y ejemplos prácticos en C++ para comprender el funcionamiento y la sintaxis de las estructuras de control: **Selección Simple (`if-else`)** y **Selección Múltiple (`switch`)**. |
-
 ### 🛠️ Archivos de Apoyo y Documentación
 
 | Archivo | Contenido |
 | :--- | :--- |
 | `pseudocodigo.txt` | Detalle del algoritmo y las especificaciones del menú de **Operaciones con Matrices y Cadenas**. |
 | `README.md` | Documentación teórica, ejemplos de código y manuales de usuario para las diferentes tareas realizadas. |
+
 
 
