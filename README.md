@@ -4,18 +4,17 @@ Este repositorio documenta el progreso y las soluciones desarrolladas durante mi
 
 ---
 
-## 🚀 Proyectos Principales
+## 👨‍💻 Proyectos Principales
 
-| Archivo | Lenguaje | Descripción |
+| Archivo | Lenguaje | Información |
 | :--- | :--- | :--- |
-| **`proyecto1.cpp`** | C++ | **Sistema de Gestión de Productos.** Implementa un CRUD (Crear, Leer, Actualizar) básico de productos. Practica el uso de `struct`, `std::vector`, manejo de archivos (`fstream`), y la conversión de tipos (`stoi`, `stof`). |
-| **`proyecto1.py`** | Python | Traducción y versión simplificada del Gestor de Productos en Python, utilizando listas y diccionarios, con persistencia de datos mediante el módulo **CSV**. |
+| **`proyecto1.cpp`** | C++ | **Sistema de Gestión de Productos.** básico de productos. Practica el uso de `struct`, `std::vector`, manejo de archivos (`fstream`), y la conversión de tipos (`stoi`, `stof`). |
 | **`ProyectoII_Matrices_AAG.py`** | Python | Serie de ejercicios centrados en **álgebra lineal y manipulación de cadenas de texto** (ver el pseudocódigo adjunto para el menú completo). |
 | **`Proyecto 3_AAG.cpp`** | C++ | Ejercicios avanzados en C++, probablemente relacionados con el uso de estructuras de datos más complejas o el manejo de memoria. |
 
 ---
 
-## ⚙️ Desarrollo de Trabajos
+## 📚 Desarrollo de Trabajos
 
 Esta sección detalla los proyectos y ejercicios clave que se han desarrollado en el repositorio
 
@@ -39,3 +38,4 @@ Esta sección detalla los proyectos y ejercicios clave que se han desarrollado e
 | :--- | :--- |
 | `pseudocodigo.txt` | Detalle del algoritmo y las especificaciones del menú de **Operaciones con Matrices y Cadenas**. |
 | `README.md` | Documentación teórica, ejemplos de código y manuales de usuario para las diferentes tareas realizadas. |
+
