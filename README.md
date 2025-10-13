@@ -1,70 +1,46 @@
-# Estructuras de Selección
+# 📁 Portafolio de Proyectos y Tareas (AAG)
 
-Documento de información para aprender que es una estructura de selección simple (`if - else`) y la estructura de selección múltiple (`switch`)
+Este repositorio documenta el progreso y las soluciones desarrolladas durante mis ejercicios de programación en C++, Python y Java. El objetivo es practicar conceptos fundamentales como estructuras de control, manejo de datos, y algoritmos con matrices y cadenas.
 
-## Estructura `if - else`
+---
 
-Se usa cuando se desea ejecutar un bloque de código si una condición se cumple, y otro bloque si no se cumple.
+## 🚀 Proyectos Principales
 
-### Ejemplo 1
+| Archivo | Lenguaje | Descripción |
+| :--- | :--- | :--- |
+| **`proyecto1.cpp`** | C++ | **Sistema de Gestión de Productos.** Implementa un CRUD (Crear, Leer, Actualizar) básico de productos. Practica el uso de `struct`, `std::vector`, manejo de archivos (`fstream`), y la conversión de tipos (`stoi`, `stof`). |
+| **`proyecto1.py`** | Python | Traducción y versión simplificada del Gestor de Productos en Python, utilizando listas y diccionarios, con persistencia de datos mediante el módulo **CSV**. |
+| **`ProyectoII_Matrices_AAG.py`** | Python | Serie de ejercicios centrados en **álgebra lineal y manipulación de cadenas de texto** (ver el pseudocódigo adjunto para el menú completo). |
+| **`Proyecto 3_AAG.cpp`** | C++ | Ejercicios avanzados en C++, probablemente relacionados con el uso de estructuras de datos más complejas o el manejo de memoria. |
+| **`Restaurante.java`** / **`.class`** | Java | Archivos que indican la práctica de **Programación Orientada a Objetos (POO)** en Java. |
 
-```cpp
-#include <iostream>
-using namespace std;
+---
 
-int main() {
-    int numero;
-    cout << "Ingresa un número: ";
-    cin >> numero;
+## ⚙️ Algoritmos y Lógica Practicada
 
-    if (numero > 0) {
-        cout << "El número es positivo." << endl;
-    } else if (numero == 0) {
-        cout << "El número es cero." << endl;
-    } else {
-        cout << "El número es negativo." << endl;
-    }
+Esta sección describe la lógica central desarrollada para los ejercicios de matrices y cadenas, que se opera mediante un **Menú de Opciones** con la **Estructura `switch`**.
 
-    return 0;
-}
-```
+### 📝 Estructura del Programa (Pseudocódigo)
 
-## Estructura Switch
+El programa maneja un menú con 8 opciones principales, divididas en operaciones matemáticas y de texto:
 
-La estructura `switch` permite ejecutar diferentes bloques de código según el valor de una variable, generalmente de tipo entero o carácter.
+| Opción | Tipo de Operación | Conceptos Practicados |
+| :--- | :--- | :--- |
+| **1-4** | **Matrices** | Suma, Transpuesta, Multiplicación y Búsqueda de un número. |
+| **5-8** | **Cadenas de Texto** | Contar Palabras, Ordenar Caracteres, Detectar Subcadenas y Verificar **Palíndromos**. |
 
-### Ejemplo 2
+### ✅ Conceptos de Control Practicados
 
-```cpp
-#include <iostream>
-using namespace std;
+La documentación incluida en los archivos `README.md` o `Readme2.md` se enfoca en la implementación de:
 
-int main() {
-    int dia;
-    cout << "Ingresa un número del 1 al 5: ";
-    cin >> dia;
+* **Estructura `if-else`:** Para tomar decisiones con múltiples condiciones (ej: positivo, negativo, cero).
+* **Estructura `switch`:** Para ejecutar bloques de código basados en la selección de una opción de menú.
 
-    switch (dia) {
-        case 1:
-            cout << "Lunes" << endl;
-            break;
-        case 2:
-            cout << "Martes" << endl;
-            break;
-        case 3:
-            cout << "Miércoles" << endl;
-            break;
-        case 4:
-            cout << "Jueves" << endl;
-            break;
-        case 5:
-            cout << "Viernes" << endl;
-            break;
-        default:
-            cout << "Número fuera de rango (1-5)." << endl;
-            break;
-    }
+---
 
-    return 0;
-}
-```
+## ⚠️ Notas de Desarrollo (Compilación)
+
+Durante el desarrollo en C++ con Dev-C++, se encontró y solucionó un error común para entornos antiguos:
+
+* **Problema:** Errores `[Error] 'stoi' was not declared...`
+* **Solución:** Se requirió configurar el compilador con el *flag* `-std=c++11` para que reconozca las funciones modernas de conversión de texto a número (`string to int`/`float`).
