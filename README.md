@@ -18,7 +18,7 @@ Este repositorio documenta el progreso y las soluciones desarrolladas durante mi
 
 Esta sección detalla los proyectos y ejercicios clave que se han desarrollado en el repositorio
 
-### 📁 Proyectos de Gestión y CRUD (Tareas)
+### 📁 Proyectos Realizados
 
 | Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
 | :--- | :--- | :--- |
@@ -38,4 +38,5 @@ Esta sección detalla los proyectos y ejercicios clave que se han desarrollado e
 | :--- | :--- |
 | `pseudocodigo.txt` | Detalle del algoritmo y las especificaciones del menú de **Operaciones con Matrices y Cadenas**. |
 | `README.md` | Documentación teórica, ejemplos de código y manuales de usuario para las diferentes tareas realizadas. |
+
 
