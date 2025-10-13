@@ -22,7 +22,7 @@ Esta sección detalla los proyectos y ejercicios clave que se han desarrollado e
 
 | Nombre del Proyecto | Archivos Principales | Descripción del Trabajo |
 | :--- | :--- | :--- |
-| **Nombre del trabajo** | `trabajoejemplo.cpp` | Brebe información acerca de la tarea creada con `definición` de cada misma realizada |
+| **Nombre del trabajo** | `trabajoejemplo.cpp` | Breve información acerca de la tarea creada con `definición` de cada misma realizada |
 
 ### 🛠️ Archivos de Apoyo y Documentación
 
@@ -30,9 +30,10 @@ Esta sección detalla el propósito de los archivos no ejecutables, cruciales pa
 
 | Archivo | Definición Sencilla | Propósito en el Proyecto |
 | :--- | :--- | :--- |
-| **`pseudocodigo.txt`** | El **"Borrador de la Receta"**. Es la lista de pasos que planeamos seguir, escrita en español simple, antes de traducirla al código real. | Detalla el algoritmo y la secuencia lógica del menú de **Operaciones con Matrices y Cadenas**, sirviendo como plano de construcción. |
-| **`README.md`** | Tu **"Tarjeta de Presentación"** del proyecto. Es el primer archivo que la gente ve, explicando de qué va todo y cómo usarlo. | Contiene la introducción, el índice de proyectos, ejemplos teóricos (como `if-else`/`switch`) y el manual de usuario. |
-| **`proyecto1.cpp`** | El **"Motor"** del Gestor de Inventario. Es el código fuente en C++ que hace que el programa funcione y guarde tus productos. | Es la implementación práctica del sistema CRUD de inventario, donde se aplican las estructuras de datos y funciones de archivo. |
+| **`pseudocodigo.txt`** | Un **"Borrador del Código"**. Es la lista de pasos que planeamos seguir, escrita en español simple, antes de traducirla al código real. | Detalla el algoritmo y la secuencia lógica del menú de **Operaciones con Matrices y Cadenas**. |
+| **`README.md`** | Tu **"Tarjeta de Presentación"** del proyecto. Es el primer archivo visualizado por las personas que revisen. | Contiene la introducción, el índice de proyectos, ejemplos teóricos  un manual de usuario. |
+| **`proyecto1.cpp`** | Es **"Código Principañ"**. Es el código fuente en C++ o en Python que hace que el programa funcione y así mismo se guarden los proyectos. | Implementación práctica del sistema en código, donde se aplican las estructuras de datos y su funcionalidad. |
+
 
 
 
